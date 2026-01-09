@@ -116,7 +116,7 @@ class SnippingTool(tk.Toplevel):
 class DetectorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("PixAlert - Treasure Hunter V3.0")
+        self.root.title("PixAlert - Treasure Hunter V4.0")
         self.root.geometry("520x760") 
         self.root.resizable(False, False)
         
