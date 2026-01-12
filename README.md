@@ -3,7 +3,7 @@
 <img width="1000" height="564" alt="computer-vision-banner" src="https://github.com/user-attachments/assets/951a3cb7-e5bb-4272-a30d-88c25ad70e28" />
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
+![Platform](https://img.shields.io/badge/Platform-Windows/MacOS-lightgrey?logo=windows)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-success)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Template%20Matching-red)
 ![Status](https://img.shields.io/badge/Status-Stable-green)
