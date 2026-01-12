@@ -12,7 +12,7 @@
 **PixAlert – Treasure Hunter** is a lightweight **real-time screen detection and alert tool** based on **OpenCV template matching**.  
 It continuously monitors your screen, detects a predefined visual target, and triggers **sound alerts**, **auto-clicks**, and **visual feedback** when the target appears.
 
-<img width="522" height="951" alt="image" src="https://github.com/user-attachments/assets/57c15c28-ccd6-4b9c-bb9f-0540930b1c9b" />
+![Screenshot 2026-01-12 181702](https://github.com/user-attachments/assets/8a3935da-2810-4b2d-bf18-96ff527481c6)
 
 Designed for:
 - Game farming & loot monitoring
