@@ -2,8 +2,6 @@
 
 <img width="1000" height="564" alt="computer-vision-banner" src="https://github.com/user-attachments/assets/951a3cb7-e5bb-4272-a30d-88c25ad70e28" />
 
-![1cau7cb4ji6f1](https://github.com/user-attachments/assets/4b9a9f79-cb98-4bf1-bcd4-578f3a4820fe)
-
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-success)
@@ -23,7 +21,7 @@ Designed for:
 - Visual event alerting
 
 ---
-
+![1cau7cb4ji6f1](https://github.com/user-attachments/assets/4b9a9f79-cb98-4bf1-bcd4-578f3a4820fe)
 ## ✨ Features
 
 - 🖼 **Screen Snipping & Image Import**
