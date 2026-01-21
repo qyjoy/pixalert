@@ -54,3 +54,5 @@ Designed for:
 - 🧠 **Anti-Spam Logic**
   - Prevents duplicate triggers on the same target
   - Cooldown-based detection logic
+
+# Starting from version 5.0, the project transitioned to a closed-source model.
