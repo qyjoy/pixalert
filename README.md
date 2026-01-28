@@ -55,4 +55,4 @@ Designed for:
   - Prevents duplicate triggers on the same target
   - Cooldown-based detection logic
 
-# Starting from version 5.0, the project transitioned to a closed-source model.
+# Starting from version 5.0-VE, the project transitioned to a closed-source model.
