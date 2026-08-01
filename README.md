@@ -1,6 +1,6 @@
 # 🎯 PixAlert — Real-Time Screen Detection & Automation Toolkit
 
-<img width="1000" height="564" alt="computer-vision-banner" src="https://github.com/user-attachments/assets/951a3cb7-e5bb-4272-a30d-88c25ad70e28" />
+![Uploading ChatGPT Image 2026年8月1日 16_49_44.png…]()
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
