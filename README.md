@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**PixAlert – ** is a lightweight **real-time screen detection and alert tool** based on **OpenCV template matching**.  
+**PixAlert** is a lightweight **real-time screen detection and alert tool** based on **OpenCV template matching**.  
 It continuously monitors your screen or window, detects a predefined visual target, and triggers **sound alerts**, **auto-clicks**, and **visual feedback** when the target appears.
 
 ![Screenshot 2026-01-12 181702](https://github.com/user-attachments/assets/8a3935da-2810-4b2d-bf18-96ff527481c6)
