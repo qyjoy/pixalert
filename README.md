@@ -19,7 +19,6 @@ GUI programming, and low-level Windows APIs, and grew into a small but
 complete automation toolkit with a config system, background-window
 capture, and per-target region optimization.
 
-![demo](https://github.com/user-attachments/assets/8a3935da-2810-4b2d-bf18-96ff527481c6)
 <img width="496" height="839" alt="image" src="https://github.com/user-attachments/assets/321e61fd-6886-4ffd-9571-5bebea0e24e8" />
 
 Typical use cases:
