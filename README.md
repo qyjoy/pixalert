@@ -1,4 +1,4 @@
-# 🎯 PixAlert –
+# 🎯 PixAlert
 
 <img width="1000" height="564" alt="computer-vision-banner" src="https://github.com/user-attachments/assets/951a3cb7-e5bb-4272-a30d-88c25ad70e28" />
 
