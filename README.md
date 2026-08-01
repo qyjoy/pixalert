@@ -1,4 +1,4 @@
-# 🎯 PixAlert – Treasure Hunter
+# 🎯 PixAlert –
 
 <img width="1000" height="564" alt="computer-vision-banner" src="https://github.com/user-attachments/assets/951a3cb7-e5bb-4272-a30d-88c25ad70e28" />
 
@@ -9,8 +9,8 @@
 ![Status](https://img.shields.io/badge/Status-Stable-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**PixAlert – Treasure Hunter** is a lightweight **real-time screen detection and alert tool** based on **OpenCV template matching**.  
-It continuously monitors your screen, detects a predefined visual target, and triggers **sound alerts**, **auto-clicks**, and **visual feedback** when the target appears.
+**PixAlert – ** is a lightweight **real-time screen detection and alert tool** based on **OpenCV template matching**.  
+It continuously monitors your screen or window, detects a predefined visual target, and triggers **sound alerts**, **auto-clicks**, and **visual feedback** when the target appears.
 
 ![Screenshot 2026-01-12 181702](https://github.com/user-attachments/assets/8a3935da-2810-4b2d-bf18-96ff527481c6)
 
@@ -55,4 +55,3 @@ Designed for:
   - Prevents duplicate triggers on the same target
   - Cooldown-based detection logic
 
-# Starting from version 5.0-VE, the project transitioned to a closed-source model.
